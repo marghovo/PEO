@@ -1,6 +1,6 @@
 # PEO: Training-Free Aesthetic Quality Enhancement in Pre-Trained Text-to-Image Diffusion Models with Prompt Embedding Optimization
 
-[![arXiv](https://img.shields.io/badge/arXiv-Paper-B31B1B)](https://arxiv.org/)
+[![arXiv](https://img.shields.io/badge/arXiv-Paper-B31B1B)](https://www.arxiv.org/pdf/2510.02599)
 
 
 ## 📄 Abstract
@@ -77,6 +77,18 @@ where prompts.txt should contain prompts to run PEO on.
 ### Failure Cases
 ![](assets/fig_14.svg)
 
+## Citations
+
+If PEO contributes to your research, please cite the paper:
+
+```
+@article{margaryan2025peo,
+  title   = {PEO: Training-Free Aesthetic Quality Enhancement in Pre-Trained Text-to-Image Diffusion Models with Prompt Embedding Optimization},
+  author  = {Hovhannes Margaryan and Bo Wan and Tinne Tuytelaars},
+  journal = {arXiv preprint arXiv:2510.02599},
+  year    = {2025},
+}
+```
 
 ## Acknowledgments
 
